@@ -1,3 +1,5 @@
 Juan Camilo
 22
 Aprender los conceptos de poo y poderlos aplicar en el contexto industrial		
+Se pudo realizar un commit, debido a que la carpeta ya no estaba vacia y eso representa un cambio para Git 
+Porque se pueden ocasionar conflictos
